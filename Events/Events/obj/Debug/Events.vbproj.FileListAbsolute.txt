@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\VS Projects\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Dell\Desktop\VS Projects\Events\Events\bin\Debug\Events.exe
+C:\Users\Dell\Desktop\VS Projects\Events\Events\bin\Debug\Events.pdb
+C:\Users\Dell\Desktop\VS Projects\Events\Events\bin\Debug\Events.xml
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.Form1.resources
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.Resources.resources
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.exe
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.xml
+C:\Users\Dell\Desktop\VS Projects\Events\Events\obj\Debug\Events.pdb
