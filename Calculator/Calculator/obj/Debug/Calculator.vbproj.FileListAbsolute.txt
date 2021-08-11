@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Dell\Desktop\VS Projects\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
