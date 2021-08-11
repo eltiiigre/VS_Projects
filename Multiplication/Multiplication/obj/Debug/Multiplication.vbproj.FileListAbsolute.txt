@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.Resources.resources
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\Dell\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\Dell\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\Dell\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.xml
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.xml
+C:\Users\Dell\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
