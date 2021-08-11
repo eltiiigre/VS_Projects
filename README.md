@@ -1,2 +1,2 @@
-# VS_Projects
+# vsprojects
 VB .NET submissions developed using Visual Studio.
